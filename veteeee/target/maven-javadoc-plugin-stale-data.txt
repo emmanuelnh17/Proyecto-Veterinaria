@@ -1,0 +1,61 @@
+@options
+@packages
+-classpath
+'C:/Users/Emmanuel/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.3.0/mariadb-java-client-3.3.0.jar;C:/Users/Emmanuel/.m2/repository/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar;C:/Users/Emmanuel/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar;C:/Users/Emmanuel/.m2/repository/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar;C:/Users/Emmanuel/.m2/repository/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar;C:/Users/Emmanuel/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;C:/Users/Emmanuel/.m2/repository/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar;C:/Users/Emmanuel/.m2/repository/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar;C:/Users/Emmanuel/.m2/repository/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.jar;C:/Users/Emmanuel/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE170/AbsoluteLayout-RELEASE170.jar;C:/Users/Emmanuel/.m2/repository/com/itextpdf/itextpdf/5.5.13.3/itextpdf-5.5.13.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Emmanuel/OneDrive/Documentos/NetBeansProjects/veteeee/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Emmanuel/OneDrive/Documentos/NetBeansProjects/veteeee/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Veterinaria 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Veterinaria 1.0-SNAPSHOT API'
+com.mycompany.veterinaria
+conexion
+control
+model
+view
+C:\Users\Emmanuel\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.3.0\mariadb-java-client-3.3.0.jar = 1699604507375
+C:\Users\Emmanuel\.m2\repository\com\github\waffle\waffle-jna\3.3.0\waffle-jna-3.3.0.jar = 1699604507425
+C:\Users\Emmanuel\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar = 1699604507580
+C:\Users\Emmanuel\.m2\repository\net\java\dev\jna\jna-platform\5.13.0\jna-platform-5.13.0.jar = 1699604507570
+C:\Users\Emmanuel\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar = 1699604507384
+C:\Users\Emmanuel\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1699604507463
+C:\Users\Emmanuel\.m2\repository\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar = 1699604507636
+C:\Users\Emmanuel\.m2\repository\com\google\errorprone\error_prone_annotations\2.10.0\error_prone_annotations-2.10.0.jar = 1699604507538
+C:\Users\Emmanuel\.m2\repository\org\checkerframework\checker-qual\3.32.0\checker-qual-3.32.0.jar = 1699604507614
+C:\Users\Emmanuel\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE170\AbsoluteLayout-RELEASE170.jar = 1694765067198
+C:\Users\Emmanuel\.m2\repository\com\itextpdf\itextpdf\5.5.13.3\itextpdf-5.5.13.3.jar = 1699668653943
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\src\main\java = 1699672821930
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\allclasses-index.html = 1700007263085
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\allpackages-index.html = 1700007263088
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\element-list = 1700007262931
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\help-doc.html = 1700007263122
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\index-all.html = 1700007263114
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\index.html = 1700007263068
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\jquery-ui.overrides.css = 1700007263141
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\member-search-index.js = 1700007263094
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\module-search-index.js = 1700007263089
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\overview-summary.html = 1700007263117
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\overview-tree.html = 1700007263063
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\package-search-index.js = 1700007263091
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\script.js = 1700007263127
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\search.js = 1700007263130
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\serialized-form.html = 1700007263015
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\stylesheet.css = 1700007263125
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\tag-search-index.js = 1700007263095
+C:\Users\Emmanuel\OneDrive\Documentos\NetBeansProjects\veteeee\target\site\apidocs\type-search-index.js = 1700007263092
